@@ -1,6 +1,6 @@
-# Mon Projet Dockerized
+# Mon Projet Docker Compose
 
-Bienvenue dans mon projet Dockerized ! Ce projet est une application full-stack utilisant Docker Compose pour l'orchestration des services.
+Bienvenue dans mon projet Docker Compose ! Ce projet est une application full-stack utilisant Docker Compose pour l'orchestration des services.
 
 ## Instructions pour démarrer l'application en mode développement
 
