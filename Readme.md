@@ -7,18 +7,22 @@ Bienvenue dans mon projet Docker Compose ! Ce projet est une application full-st
 1. Assurez-vous d'avoir Docker et Docker Compose installés sur votre machine.
 
 2. Clonez le dépôt GitHub :
+```bash
 git clone https://github.com/kjarret/docker-compose
 cd docker-compose
+```
 
 
 3. Lancez les containers avec Docker Compose :
+```bash
 docker-compose -f docker-compose.dev.yml up --build
+```
 
 
-4. Accédez à l'application React :
+5. Accédez à l'application React :
 Ouvrez votre navigateur et allez à http://localhost:3000
 
-5. Profitez du hot reload :
+6. Profitez du hot reload :
 Modifiez du texte dans le fichier local `/client/src/App.js` et observez les changements en temps réel dans votre navigateur.
 
 ## Structure du Projet
