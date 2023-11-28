@@ -1,5 +1,1 @@
-# Ignore the data directory
-data/
-
-# Ignore log files
-*.log
+/data
