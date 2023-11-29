@@ -6,10 +6,9 @@ Bienvenue dans mon projet Docker Compose ! Ce projet est une application full-st
 
 1. Assurez-vous d'avoir Docker et Docker Compose installés sur votre machine.
 
-2. Clonez le dépôt GitHub :
+2. Clonez le dépôt GitHub et placez vous à l'intérieur du répertoire :
 ```bash
-git clone https://github.com/kjarret/docker-compose
-cd docker-compose
+git clone https://github.com/kjarret/docker-compose.git && cd docker-compose
 ```
 
 
